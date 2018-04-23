@@ -38,7 +38,7 @@ public class CmdArgs {
             }
 
         } catch (CmdLineException e) {
-            System.out.println("5051");
+            System.out.println("wrong input");
         }
 
         if (regexp) System.out.println("-r is set");
