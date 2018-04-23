@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="java-util-1.4.23-sources">
+    <CLASSES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/java-util-1.4.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/java-util-1.4.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/java-util-1.4.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
